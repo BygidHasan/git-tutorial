@@ -5,7 +5,7 @@ public class hello {
     
     }
 
-    public static int sqr(int a) {
-        return a*a; 
+    public static void display() {
+        System.out.println("merge conflict bother a lot");
     }
 }
